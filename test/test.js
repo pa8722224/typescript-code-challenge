@@ -11,6 +11,7 @@ describe('#transform()', function() {
   })
   
   // Test that data is transformed correctly
+  // TODO compare JSON instead of strings
   it('should transform', function() {
     var transform = new Transform('data.json','data-transform.json');
     transform.transform();
