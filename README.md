@@ -26,3 +26,12 @@ Your work will be evaluated primarily on:
  1. Fork this project on github.
  2. Update this README.md file with instructions on how to build/test/run your script.
  3. When you're finished, send us the URL of your public repository.
+
+
+## Install/Run/Test
+
+Use npm to install, run and test this utility
+
+npm install
+npm test
+npm start 

@@ -1,0 +1,18 @@
+{
+  "name": "processor",
+  "description": "Process some JSON",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "minimist": "1.2.5",
+    "mocha": "^8.4.0"
+  },
+  "scripts": {
+    "start": "node main.js",
+    "test": "mocha test/test.js"
+  },
+  "devDependencies": {
+    "mocha": "^8.1.2",
+    "prettier": "^2.1.2"
+  }
+}
