@@ -10,7 +10,7 @@ describe('#transform()', function() {
   beforeEach(function() {
   })
   
-  // test a functionality
+  // Test that data is transformed correctly
   it('should transform', function() {
     var transform = new Transform();
     transform.transform();

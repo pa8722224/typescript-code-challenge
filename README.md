@@ -32,6 +32,6 @@ Your work will be evaluated primarily on:
 
 Use npm to install, run and test this utility
 
-npm install
-npm test
-npm start 
+`npm install`
+`npm test`
+`npm start` 
