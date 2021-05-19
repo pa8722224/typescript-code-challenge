@@ -18,6 +18,8 @@ describe('#transform()', function() {
     var expected = fs.readFileSync('expected.json')
     expect(transformed).to.equal(expected);
   })
+
+  // TODO - feed it bad data, expect an exception
   
 })
 
